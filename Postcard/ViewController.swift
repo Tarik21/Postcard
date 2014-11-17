@@ -39,7 +39,7 @@ class ViewController: UIViewController {
         
         mailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
         
-        
+// onzinnig commentaar
 //        if messageLabel.hidden = true
 //        { messageLabelhidden.hidden = false }
 //        else {messageLabel.hidden = true}
